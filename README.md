@@ -123,7 +123,7 @@ aws-document-approval-system/
 *REST API stage configuration for the documents and decision endpoints.*
 
 ### 6. SNS Email Notification
-![SNS Notification](screenshots/AWS_Notifications.png)
+![SNS Notification](screenshots/AWS-Notifications.png)
 *Real-time email alert sent to the admin the moment a new document is submitted.*
 
 ---
